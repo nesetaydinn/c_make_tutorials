@@ -9,3 +9,7 @@
 ## How do you support me? And how can you incentive creating than more contents me? 
 - You can subscribe my youtube channel. <https://www.youtube.com/nesetaydinn>
 - You can follow me on github.
+
+## Resources:
+- <https://cmake.org/cmake/help/latest/manual/cmake.1.html#manual:cmake(1)>
+- <https://cmake.org/cmake/help/latest/guide/tutorial/index.html>
